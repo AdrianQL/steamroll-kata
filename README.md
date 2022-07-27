@@ -46,3 +46,7 @@ npm run test
 ```
 
 Las unicas modificaciones que necesitara tu kata se realizaran sobre el archivo _steamroll.js_
+
+### Mi solución la tienes en el tag  [optimal-resolution](https://github.com/AdrianQL/steamroll-kata/releases/tag/optimal-resolution) ✔️
+
+> Se ira añadiendo nuevas soluciones 📁
