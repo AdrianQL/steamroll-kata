@@ -1,0 +1,25 @@
+{
+  "name": "steamroll-kata",
+  "version": "1.0.0",
+  "description": "Kata - Nested Array Flattener",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianQL/steamroll-kata.git"
+  },
+  "author": "Adrián Quesada López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianQL/steamroll-kata/issues"
+  },
+  "homepage": "https://github.com/AdrianQL/steamroll-kata#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.9",
+    "@babel/preset-env": "^7.18.9",
+    "babel-jest": "^28.1.3",
+    "jest": "^28.1.3"
+  }
+}
